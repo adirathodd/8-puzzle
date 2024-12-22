@@ -22,4 +22,4 @@ This program solves the 8-puzzle problem using the A* search algorithm. The puzz
 ### Compilation
 Compile the program using the following command:
 ```bash
-gcc -o puzzle_solver puzzle_solver.c
+gcc -o puzzle puzzle.c
